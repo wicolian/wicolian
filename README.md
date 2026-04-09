@@ -1,4 +1,4 @@
-<!-- streak: PNG via demolab (SVG + picture can break behind GitHub camo). icons: Iconify (cdn.simpleicons.org 404s some brands e.g. AWS/OpenAI/LinkedIn). -->
+<!-- streak: single PNG (github-dark). theme #fragments rendered both imgs. icons: Iconify. -->
 
 <table width="100%">
   <tr>
@@ -19,8 +19,7 @@
     </td>
     <td valign="top" align="right" width="42%">
       <a href="https://github.com/wicolian">
-        <img src="https://streak-stats.demolab.com/?user=wicolian&theme=github-dark&hide_border=true&border_radius=10&card_width=420&type=png#gh-dark-mode-only" width="420" alt="GitHub contribution streak" />
-        <img src="https://streak-stats.demolab.com/?user=wicolian&theme=default&hide_border=true&border_radius=10&card_width=420&type=png#gh-light-mode-only" width="420" alt="GitHub contribution streak" />
+        <img src="https://streak-stats.demolab.com/?user=wicolian&theme=github-dark&hide_border=true&border_radius=10&card_width=420&type=png" width="420" alt="GitHub contribution streak" />
       </a>
       <p align="right"><sub>public activity only — most founder work stays private</sub></p>
     </td>
