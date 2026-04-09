@@ -7,11 +7,12 @@
       <p align="left"><sub>design-led GTM · product · growth systems · automation</sub></p>
       <p align="left">
         <a href="https://github.com/wicolian?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/wicolian?style=flat-square&logo=github&logoColor=white&label=followers&labelColor=0d1117&color=238636"></a>
-        <a href="https://github.com/wicolian?tab=repositories"><img alt="public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwicolian&query=%24.public_repos&label=public%20repos&logo=github&logoColor=white&labelColor=0d1117&color=1f6feb&style=flat-square"></a>
+        <a href="https://github.com/wicolian?tab=repositories&amp;type=public"><img alt="public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwicolian&query=%24.public_repos&label=repos%20%28public%20only%29&logo=github&logoColor=white&labelColor=0d1117&color=1f6feb&style=flat-square"></a>
         <a href="https://kelashik.com"><img alt="website" src="https://img.shields.io/website?url=https%3A%2F%2Fkelashik.com&style=flat-square&logo=googlechrome&label=site&labelColor=0d1117&color=238636"></a>
         <a href="https://www.linkedin.com/in/kelashik/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-kelashik-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"></a>
         <a href="mailto:contact@kelashik.com"><img alt="email" src="https://img.shields.io/badge/email-contact%40kelashik.com-8b949e?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"></a>
       </p>
+      <p align="left"><sub>github doesn’t expose <strong>private</strong> repo totals to public badges or embeds — only your full count (e.g. on the <a href="https://github.com/wicolian?tab=repositories">repos</a> tab while logged in). most of my work stays private.</sub></p>
       <p align="left">
         founder-minded builder — i care about where <strong>design, distribution, and systems</strong> meet: sites, funnels, AI workflows, and GTM that actually ships.
       </p>
