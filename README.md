@@ -1,4 +1,4 @@
-<!-- profile readme — streak + shields load reliably; public github-readme-stats vercel often 503 -->
+<!-- streak: PNG via demolab (SVG + picture can break behind GitHub camo). icons: Iconify (cdn.simpleicons.org 404s some brands e.g. AWS/OpenAI/LinkedIn). -->
 
 <table width="100%">
   <tr>
@@ -18,11 +18,8 @@
     </td>
     <td valign="top" align="right" width="42%">
       <a href="https://github.com/wicolian">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.demolab.com/?user=wicolian&theme=github-dark&hide_border=true&border_radius=10&card_width=420">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.demolab.com/?user=wicolian&theme=default&hide_border=true&border_radius=10&card_width=420">
-          <img width="420" alt="GitHub contribution streak" src="https://github-readme-streak-stats.demolab.com/?user=wicolian&theme=default&hide_border=true&border_radius=10&card_width=420">
-        </picture>
+        <img src="https://streak-stats.demolab.com/?user=wicolian&theme=github-dark&hide_border=true&border_radius=10&card_width=420&type=png#gh-dark-mode-only" width="420" alt="GitHub contribution streak" />
+        <img src="https://streak-stats.demolab.com/?user=wicolian&theme=default&hide_border=true&border_radius=10&card_width=420&type=png#gh-light-mode-only" width="420" alt="GitHub contribution streak" />
       </a>
       <p align="right"><sub>public activity only — most founder work stays private</sub></p>
     </td>
@@ -63,79 +60,79 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="44" height="44" alt="Next.js" />
+      <img src="https://api.iconify.design/simple-icons/nextdotjs.svg?color=%23ffffff" width="44" height="44" alt="Next.js" />
       <br><sub>Next.js</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="44" height="44" alt="TypeScript" />
+      <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%233178C6" width="44" height="44" alt="TypeScript" />
       <br><sub>TypeScript</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/react/61DAFB" width="44" height="44" alt="React" />
+      <img src="https://api.iconify.design/simple-icons/react.svg?color=%2361DAFB" width="44" height="44" alt="React" />
       <br><sub>React</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="44" height="44" alt="Tailwind CSS" />
+      <img src="https://api.iconify.design/simple-icons/tailwindcss.svg?color=%2306B6D4" width="44" height="44" alt="Tailwind CSS" />
       <br><sub>Tailwind</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="44" height="44" alt="Node.js" />
+      <img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%23339933" width="44" height="44" alt="Node.js" />
       <br><sub>Node</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="44" height="44" alt="PostgreSQL" />
+      <img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%234169E1" width="44" height="44" alt="PostgreSQL" />
       <br><sub>Postgres</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/stripe/635BFF" width="44" height="44" alt="Stripe" />
+      <img src="https://api.iconify.design/simple-icons/stripe.svg?color=%23635BFF" width="44" height="44" alt="Stripe" />
       <br><sub>Stripe</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/docker/2496ED" width="44" height="44" alt="Docker" />
+      <img src="https://api.iconify.design/simple-icons/docker.svg?color=%232496ED" width="44" height="44" alt="Docker" />
       <br><sub>Docker</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="44" height="44" alt="AWS" />
+      <img src="https://api.iconify.design/simple-icons/amazonaws.svg?color=%23FF9900" width="44" height="44" alt="AWS" />
       <br><sub>AWS</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/vercel/ffffff" width="44" height="44" alt="Vercel" />
+      <img src="https://api.iconify.design/simple-icons/vercel.svg?color=%23ffffff" width="44" height="44" alt="Vercel" />
       <br><sub>Vercel</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="44" height="44" alt="n8n" />
+      <img src="https://api.iconify.design/simple-icons/n8n.svg?color=%23EA4B71" width="44" height="44" alt="n8n" />
       <br><sub>n8n</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/openai/412991" width="44" height="44" alt="OpenAI" />
+      <img src="https://api.iconify.design/simple-icons/openai.svg?color=%23412991" width="44" height="44" alt="OpenAI" />
       <br><sub>OpenAI</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/posthog/E34C5C" width="44" height="44" alt="PostHog" />
+      <img src="https://api.iconify.design/simple-icons/posthog.svg?color=%23E34C5C" width="44" height="44" alt="PostHog" />
       <br><sub>PostHog</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="44" height="44" alt="Google Analytics" />
+      <img src="https://api.iconify.design/simple-icons/googleanalytics.svg?color=%23E37400" width="44" height="44" alt="Google Analytics" />
       <br><sub>GA4</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/figma/F24E1E" width="44" height="44" alt="Figma" />
+      <img src="https://api.iconify.design/simple-icons/figma.svg?color=%23F24E1E" width="44" height="44" alt="Figma" />
       <br><sub>Figma</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/framer/0055FF" width="44" height="44" alt="Framer" />
+      <img src="https://api.iconify.design/simple-icons/framer.svg?color=%230055FF" width="44" height="44" alt="Framer" />
       <br><sub>Framer</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/webflow/146EF5" width="44" height="44" alt="Webflow" />
+      <img src="https://api.iconify.design/simple-icons/webflow.svg?color=%23146EF5" width="44" height="44" alt="Webflow" />
       <br><sub>Webflow</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/github/ffffff" width="44" height="44" alt="GitHub" />
+      <img src="https://api.iconify.design/simple-icons/github.svg?color=%23ffffff" width="44" height="44" alt="GitHub" />
       <br><sub>GitHub</sub>
     </td>
   </tr>
@@ -192,11 +189,11 @@
   <a href="mailto:contact@kelashik.com"><strong>email</strong></a>
 </p>
 <p align="left">
-  <a href="https://github.com/wicolian" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" width="28" height="28" alt="GitHub" /></a>
+  <a href="https://github.com/wicolian" title="GitHub"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23ffffff" width="28" height="28" alt="GitHub" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/kelashik/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0a66c2" width="28" height="28" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/kelashik/" title="LinkedIn"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" width="28" height="28" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://www.instagram.com/kelashik/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/kelashik/" title="Instagram"><img src="https://api.iconify.design/simple-icons/instagram.svg?color=%23E4405F" width="28" height="28" alt="Instagram" /></a>
   &nbsp;
-  <a href="https://www.youtube.com/channel/UCf29blibBFSHmo75hbnifjA" title="YouTube"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="28" height="28" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/channel/UCf29blibBFSHmo75hbnifjA" title="YouTube"><img src="https://api.iconify.design/simple-icons/youtube.svg?color=%23FF0000" width="28" height="28" alt="YouTube" /></a>
 </p>
