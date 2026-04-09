@@ -12,7 +12,6 @@
         <a href="https://www.linkedin.com/in/kelashik/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-kelashik-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"></a>
         <a href="mailto:contact@kelashik.com"><img alt="email" src="https://img.shields.io/badge/email-contact%40kelashik.com-8b949e?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"></a>
       </p>
-      <p align="left"><sub>github doesn’t expose <strong>private</strong> repo totals to public badges or embeds — only your full count (e.g. on the <a href="https://github.com/wicolian?tab=repositories">repos</a> tab while logged in). most of my work stays private.</sub></p>
       <p align="left">
         founder-minded builder — i care about where <strong>design, distribution, and systems</strong> meet: sites, funnels, AI workflows, and GTM that actually ships.
       </p>
