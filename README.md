@@ -1,31 +1,42 @@
-<h1 align="left">hey, i'm koushik</h1>
-<h3 align="left">i build design-led GTM systems, products, automations, and AI workflows</h3>
+<!-- profile readme — stats use streak + shields (vercel readme-stats often 503) -->
 
-<p align="left">
-  <a href="https://github.com/wicolian?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/wicolian?style=flat&logo=github">
-  </a>
-  <a href="https://kelashik.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fkelashik.com">
-  </a>
-  <a href="https://linkedin.com/in/kelashik">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-kelashik-blue?logo=linkedin">
-  </a>
-  <a href="mailto:contact@kelashik.com">
-    <img alt="Email" src="https://img.shields.io/badge/email-contact%40kelashik.com-informational">
-  </a>
-</p>
-
-<a href="https://github.com/wicolian">
-  <img src="https://github-readme-stats.vercel.app/api?username=wicolian&show_icons=true&hide_border=true&rank_icon=github" alt="koushik's github stats" align="right" />
-</a>
-
-- building products where **design, growth, and automation** overlap
-- currently focused on **Sako**, GTM systems, and AI-assisted workflows
-- i like turning vague ideas into **sites, funnels, tools, and experiments**
-- stack leans heavily into **Next.js, TypeScript, n8n, analytics, and design systems**
-- based in **Chennai, India**
-- more at **[kelashik.com](https://kelashik.com)**
+<table width="100%">
+  <tr>
+    <td valign="top" width="58%">
+      <h1 align="left">hey, i'm <strong>koushik</strong></h1>
+      <p align="left">
+        <sub>founder-minded builder · design-led GTM · product, growth &amp; automation</sub>
+      </p>
+      <p align="left">
+        <a href="https://github.com/wicolian?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/wicolian?style=flat-square&logo=github&logoColor=white&label=followers&labelColor=0d1117&color=238636"></a>
+        <a href="https://github.com/wicolian?tab=repositories"><img alt="public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwicolian&query=%24.public_repos&label=public%20repos&logo=github&logoColor=white&labelColor=0d1117&color=1f6feb&style=flat-square"></a>
+        <a href="https://kelashik.com"><img alt="website" src="https://img.shields.io/website?url=https%3A%2F%2Fkelashik.com&style=flat-square&logo=googlechrome&label=site&labelColor=0d1117&color=238636"></a>
+        <a href="https://linkedin.com/in/kelashik"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-kelashik-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"></a>
+        <a href="mailto:contact@kelashik.com"><img alt="email" src="https://img.shields.io/badge/email-contact%40kelashik.com-8b949e?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"></a>
+      </p>
+      <p align="left">
+        i build <strong>design-led GTM systems</strong>, products, automations, and <strong>AI workflows</strong>.
+      </p>
+      <ul align="left">
+        <li>building where <strong>design, growth, and automation</strong> overlap</li>
+        <li>currently: <strong>Sako</strong>, GTM systems, AI-assisted workflows</li>
+        <li>turning vague ideas into <strong>sites, funnels, tools, experiments</strong></li>
+        <li>stack: <strong>Next.js</strong>, TypeScript, n8n, analytics, design systems</li>
+        <li><strong>Chennai, India</strong> · more at <a href="https://kelashik.com">kelashik.com</a></li>
+      </ul>
+    </td>
+    <td valign="top" align="right" width="42%">
+      <a href="https://github.com/wicolian">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.demolab.com/?user=wicolian&theme=github-dark&hide_border=true&border_radius=10&card_width=420">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.demolab.com/?user=wicolian&theme=default&hide_border=true&border_radius=10&card_width=420">
+          <img width="420" alt="GitHub streak: current streak, contributions, and longest streak" src="https://github-readme-streak-stats.demolab.com/?user=wicolian&theme=default&hide_border=true&border_radius=10&card_width=420">
+        </picture>
+      </a>
+      <p align="right"><sub>activity on public repos — private work won’t show here</sub></p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -34,96 +45,114 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/nextdotjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
+      <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="44" height="44" alt="Next.js" />
+      <br><sub>Next.js</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/typescript" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="44" height="44" alt="TypeScript" />
+      <br><sub>TypeScript</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/react" width="48" height="48" alt="React" />
-      <br>React
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="44" height="44" alt="React" />
+      <br><sub>React</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/tailwindcss" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="44" height="44" alt="Tailwind CSS" />
+      <br><sub>Tailwind</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/postgresql" width="48" height="48" alt="PostgreSQL" />
-      <br>Postgres
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="44" height="44" alt="PostgreSQL" />
+      <br><sub>Postgres</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/stripe" width="48" height="48" alt="Stripe" />
-      <br>Stripe
+      <img src="https://cdn.simpleicons.org/stripe/635BFF" width="44" height="44" alt="Stripe" />
+      <br><sub>Stripe</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/docker" width="48" height="48" alt="Docker" />
-      <br>Docker
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="44" height="44" alt="Docker" />
+      <br><sub>Docker</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/vercel" width="48" height="48" alt="Vercel" />
-      <br>Vercel
+      <img src="https://cdn.simpleicons.org/vercel/ffffff" width="44" height="44" alt="Vercel" />
+      <br><sub>Vercel</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" alt="n8n" />
-      <br>n8n
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="44" height="44" alt="n8n" />
+      <br><sub>n8n</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/openai" width="48" height="48" alt="OpenAI" />
-      <br>OpenAI
+      <img src="https://cdn.simpleicons.org/openai/412991" width="44" height="44" alt="OpenAI" />
+      <br><sub>OpenAI</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/posthog" width="48" height="48" alt="PostHog" />
-      <br>PostHog
+      <img src="https://cdn.simpleicons.org/posthog/E34C5C" width="44" height="44" alt="PostHog" />
+      <br><sub>PostHog</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/googleanalytics" width="48" height="48" alt="Google Analytics" />
-      <br>GA4
+      <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="44" height="44" alt="Google Analytics" />
+      <br><sub>GA4</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/figma" width="48" height="48" alt="Figma" />
-      <br>Figma
+      <img src="https://cdn.simpleicons.org/figma/F24E1E" width="44" height="44" alt="Figma" />
+      <br><sub>Figma</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/framer" width="48" height="48" alt="Framer" />
-      <br>Framer
+      <img src="https://cdn.simpleicons.org/framer/0055FF" width="44" height="44" alt="Framer" />
+      <br><sub>Framer</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/webflow" width="48" height="48" alt="Webflow" />
-      <br>Webflow
+      <img src="https://cdn.simpleicons.org/webflow/146EF5" width="44" height="44" alt="Webflow" />
+      <br><sub>Webflow</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
+      <img src="https://cdn.simpleicons.org/github/ffffff" width="44" height="44" alt="GitHub" />
+      <br><sub>GitHub</sub>
     </td>
   </tr>
 </table>
 
+<br>
+
 <h2 align="left">what i'm focused on</h2>
 
-- **Sako ecosystem**  
-  design-led GTM, productized creative ops, AI-generated assets, and internal automation systems
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Sako ecosystem</strong><br>
+      <sub>design-led GTM, creative ops, AI assets, internal automation</sub>
+    </td>
+    <td valign="top" width="33%">
+      <strong>growth systems</strong><br>
+      <sub>outbound, funnels, landing pages, analytics, conversion</sub>
+    </td>
+    <td valign="top" width="34%">
+      <strong>product + design</strong><br>
+      <sub>interfaces, design systems, motion, web that moves pipeline</sub>
+    </td>
+  </tr>
+</table>
 
-- **growth systems**  
-  outbound workflows, funnel experiments, landing pages, analytics instrumentation, and conversion work
-
-- **product + design**  
-  shipping interfaces, design systems, motion, and web experiences that actually move pipeline
+<br>
 
 <h2 align="left">selected project clusters</h2>
 
-- **Sako:** `sako-gtm` · `sako-composer` · `sako-v1` · `sako-v1-mkt` · `sako-ai-flow`
-- **ops / automation:** `n8n-sako` · `sako-n8n` · `creative-ops-hq` · `task-sprint-sako`
-- **experiments:** `trust-ledger` · `cutflow` · `daysleft` · `prolancing`
-- **learning / references:** `ai-engineering-hub` · `system-prompts-and-models-of-ai-tools` · `cs50edx`
+| area | repos |
+| --- | --- |
+| **Sako** | `sako-gtm` · `sako-composer` · `sako-v1` · `sako-v1-mkt` · `sako-ai-flow` |
+| **ops / automation** | `n8n-sako` · `sako-n8n` · `creative-ops-hq` · `task-sprint-sako` |
+| **experiments** | `trust-ledger` · `cutflow` · `daysleft` · `prolancing` |
+| **learning / references** | `ai-engineering-hub` · `system-prompts-and-models-of-ai-tools` · `cs50edx` |
+
+<br>
 
 <h2 align="left">connect</h2>
 
 <p align="left">
-  <a href="https://kelashik.com">website</a> ·
-  <a href="https://linkedin.com/in/kelashik">linkedin</a> ·
-  <a href="mailto:contact@kelashik.com">email</a>
+  <a href="https://kelashik.com"><strong>website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/kelashik"><strong>linkedin</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:contact@kelashik.com"><strong>email</strong></a>
 </p>
