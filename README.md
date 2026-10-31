@@ -4,7 +4,7 @@
   <tr>
     <td valign="top" width="58%">
       <h1 align="left">hey, i'm <strong>koushik venkatesan</strong></h1>
-      <p align="left"><sub>design-led GTM · product · growth systems · automation</sub></p>
+      <p align="left"><sub>founding design engineer at <a href="https://www.usedatabrain.com">Databrain</a> · AI-native 0→1 builder · design, product, GTM</sub></p>
       <p align="left">
         <a href="https://github.com/wicolian?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/wicolian?style=flat-square&logo=github&logoColor=white&label=followers&labelColor=0d1117&color=238636"></a>
         <a href="https://github.com/wicolian?tab=repositories&amp;type=public"><img alt="public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwicolian&query=%24.public_repos&label=repos%20%28public%20only%29&logo=github&logoColor=white&labelColor=0d1117&color=1f6feb&style=flat-square"></a>
@@ -20,7 +20,7 @@
       <a href="https://github.com/wicolian">
         <img src="https://streak-stats.demolab.com/?user=wicolian&theme=github-dark&hide_border=true&border_radius=10&card_width=420&type=png" width="420" alt="GitHub contribution streak" />
       </a>
-      <p align="right"><sub>public activity only — most founder work stays private</sub></p>
+      <p align="right"><sub>public activity only</sub></p>
     </td>
   </tr>
 </table>
@@ -31,20 +31,20 @@
 
 <table>
   <tr>
-    <td valign="top" width="22%"><strong>building</strong></td>
-    <td valign="top"><strong>Sako</strong>, AI-assisted GTM workflows, outbound systems, and productized creative ops</td>
+    <td valign="top" width="22%"><strong>working</strong></td>
+    <td valign="top">founding design engineer at <strong>Databrain</strong>: v2 redesign, design system in Figma and code, AI Copilot, internal tools</td>
   </tr>
   <tr>
-    <td valign="top"><strong>learning</strong></td>
-    <td valign="top">deeper agentic workflows, system design, product distribution loops, tighter GTM automation</td>
+    <td valign="top"><strong>open-sourced</strong></td>
+    <td valign="top"><a href="https://github.com/wicolian/sako"><strong>Sako</strong></a>: the full stack of my design-subscription startup. Landing page, client portal, studio, API, AI GTM app, 44 n8n workflows, Terraform, and the founder playbooks. $9K MRR at peak, built solo with AI agents</td>
   </tr>
   <tr>
-    <td valign="top"><strong>collaborate</strong></td>
-    <td valign="top">design-led SaaS, AI tooling, growth systems, useful web products</td>
+    <td valign="top"><strong>available for</strong></td>
+    <td valign="top">paid <strong>forward-deployed engineering (FDE)</strong> and freelance sessions: product, design and GTM systems built with AI agents. <a href="https://kelashik.com">kelashik.com</a></td>
   </tr>
   <tr>
-    <td valign="top"><strong>help with</strong></td>
-    <td valign="top">distribution at scale, sharper sales systems, durable demand — always happy to jam on <strong>Next.js</strong>, landing pages, outbound, analytics, automation, design systems</td>
+    <td valign="top"><strong>support</strong></td>
+    <td valign="top">if Sako saved you time, <a href="https://github.com/sponsors/wicolian">sponsor me</a> or ⭐ the repo</td>
   </tr>
 </table>
 
@@ -144,8 +144,8 @@
 <table>
   <tr>
     <td valign="top" width="33%">
-      <strong>Sako ecosystem</strong><br>
-      <sub>design-led GTM, creative ops, AI assets, internal automation</sub>
+      <strong>design engineering</strong><br>
+      <sub>design systems in Figma and code, AI-native product work</sub>
     </td>
     <td valign="top" width="33%">
       <strong>growth systems</strong><br>
@@ -164,8 +164,8 @@
 
 | area | repos |
 | --- | --- |
-| **Sako** | `sako-gtm` · `sako-composer` · `sako-v1` · `sako-v1-mkt` · `sako-ai-flow` |
-| **ops / automation** | `n8n-sako` · `sako-n8n` · `creative-ops-hq` · `task-sprint-sako` |
+| **Sako (open source)** | [`sako`](https://github.com/wicolian/sako): the whole company in one repo |
+| **tools** | [`likeability`](https://github.com/wicolian/likeability) · [`boxdeck`](https://github.com/wicolian/boxdeck) · [`kelaskills`](https://github.com/wicolian/kelaskills) |
 | **experiments** | `trust-ledger` · `cutflow` · `daysleft` · `prolancing` |
 | **learning / references** | `ai-engineering-hub` · `system-prompts-and-models-of-ai-tools` · `cs50edx` |
 
@@ -175,6 +175,7 @@
 
 <p align="left">
   <a href="https://kelashik.com"><strong>kelashik.com</strong></a> — projects &amp; work<br>
+  <a href="https://www.kelashik.com/portfolio/sako-gtm-product-system"><strong>Sako case study</strong></a> — $0 to $9K MRR on a $500 budget<br>
   <a href="https://drive.google.com/file/d/1m4AAbSeMTHbcW8wVhmBRYMeILx4wMUF0/view?usp=sharing"><strong>background / CV (pdf)</strong></a>
 </p>
 
